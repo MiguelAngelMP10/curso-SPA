@@ -1,10 +1,11 @@
 {
-  "name": "cientifico",
+  "name": "cientifico01",
   "version": "1.0.0",
   "description": "Single page application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --modo production",
+    "start": "webpack-dev-server --open --mode development"
   },
   "keywords": [
     "javascript"
