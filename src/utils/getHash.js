@@ -1,5 +1,5 @@
 const getHash = () => {
-    location
+    return location
         .hash
         .slice(1)
         .toLocaleLowerCase()
