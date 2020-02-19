@@ -20,5 +20,14 @@
     "webpack": "^4.41.6",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelAngelMP/curso-SPA.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MiguelAngelMP/curso-SPA/issues"
+  },
+  "homepage": "https://github.com/MiguelAngelMP/curso-SPA#readme"
 }
