@@ -4,7 +4,7 @@
   "description": "Single page application",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --modo production",
+    "build": "webpack --mode production",
     "start": "webpack-dev-server --open --mode development"
   },
   "keywords": [
